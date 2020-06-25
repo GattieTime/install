@@ -150,7 +150,10 @@
 14. Click new to open a new line and type in "%M2%" then click "OK."
 ![](MVN-Path.jpg)
 
-15. Open Git Bash and type "mvn -v" then hit Enter. If that returns the maven version you have it set up correctly. 
+15. Click "OK" to close the Environment Variables window. 
+![](JDK-End.jpg)
+
+16. Open Git Bash and type "mvn -v" then hit Enter. If that returns the maven version you have it set up correctly. 
 ![](MVN-Version.jpg)
 
 **Installing Spring Tool Suite 4**
