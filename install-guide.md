@@ -102,7 +102,10 @@
 20. Click "New" to create a new line. Add the path to the JDK bin folder in this line, it will be the same as the path in JAVA_HOME with a "\bin" at the end. 
 ![](JDK-PathNew.jpg)
 
-21. Open Git Bash, type "java -version" and hit Enter. If the JDK is installed correctly you should see Java with the version number you downloaded. 
+21. Click "OK" to close the Environment Variables window. 
+![](JDK-End.jpg)
+
+22. Open Git Bash, type "java -version" and hit Enter. If the JDK is installed correctly you should see Java with the version number you downloaded. 
 ![](JDK-Version.jpg)
 
 **Installing Maven**
